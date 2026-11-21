@@ -1,0 +1,8 @@
+title: ESPChat
+description: A bitchat compatible BLE mesh messenger for WT32-SC01 and WT32-SC01 Plus
+theme: jekyll-theme-hacker
+markdown: kramdown
+include:
+  - assets/css/style.scss
+  - assets/images
+
